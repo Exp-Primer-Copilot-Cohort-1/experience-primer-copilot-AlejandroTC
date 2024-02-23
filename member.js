@@ -1,7 +1,3 @@
 function skillsMemer() {
-  return {
-    name: "John Doe",
-    skills: ["HTML", "CSS", "JS"],
-    age: 25
-  };
+  return 'I am a member of the skills team';
 }

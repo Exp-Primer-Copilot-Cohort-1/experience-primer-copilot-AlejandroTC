@@ -1,3 +1,7 @@
-function skillsMemeber() {
-  console.log('I am a member of the team')
+function skillsMemer() {
+  return {
+    name: "John Doe",
+    skills: ["HTML", "CSS", "JS"],
+    age: 25
+  };
 }
